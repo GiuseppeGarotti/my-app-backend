@@ -1,4 +1,4 @@
-import pyJWT==2.10.1
+pyJWT==2.10.1
 fastapi
 uvicorn[standard]
 motor
